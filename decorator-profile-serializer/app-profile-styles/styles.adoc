@@ -1,0 +1,2 @@
+// Auto-generated file: D:\MyCode\zama\demo\decorator-profile-serializer\app-profile-styles\styles.adoc
+// Generated at: 2025-10-09T16:54:20.738Z
