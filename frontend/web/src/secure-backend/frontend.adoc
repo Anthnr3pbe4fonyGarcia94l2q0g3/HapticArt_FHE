@@ -1,0 +1,2 @@
+// Auto-generated file: D:\MyCode\zama\demo\frontend\web\src\secure-backend\frontend.adoc
+// Generated at: 2025-10-09T16:54:20.766Z
